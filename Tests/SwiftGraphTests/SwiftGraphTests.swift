@@ -1,7 +1,7 @@
 import XCTest
-@testable import swift_graph
+@testable import SwiftGraph
 
-final class swift_graphTests: XCTestCase {
+final class SwiftGraphTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
